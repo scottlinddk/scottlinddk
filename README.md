@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Scott Lind</h1>
-- 👨‍💻 All of my projects will soon be available at [www.scottlind.dk](www.scottlind.dk)
-
+<p align="center">Currently working on my portforlio 👨🏼‍💻</p>
+- All of my projects will soon be available at [www.scottlind.dk](www.scottlind.dk)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
