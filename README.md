@@ -2,10 +2,6 @@
 <p align="center">Currently working on my portforlio 👨🏼‍💻</p>
 - All of my projects will soon be available at [www.scottlind.dk](www.scottlind.dk)
 
-<div align="center">
-![scottlinddk's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottlinddk&show_icons=true&theme=default)
-</div>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
